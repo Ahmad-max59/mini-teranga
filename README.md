@@ -44,6 +44,7 @@ src/
   main.jsx      fourni, ne pas modifier
   constants.js  adresse de l'API (fourni)
   donnees-test.js  données pour les étapes 1 à 3 (fourni)
+  public/       logo-teranga-blog.png : le logo, à afficher dans la barre de navigation (étape 5)
   index.css     styles de départ (tu peux les faire réécrire par une IA)
 ```
 
